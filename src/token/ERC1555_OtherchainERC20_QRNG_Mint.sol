@@ -179,7 +179,7 @@ contract ERC1155OtherchainERC20QRNGMint is ERC1155, AccessControl, RrpRequesterV
 
     constructor(
         address _airnodeRrp, //0xa0AD79D995DdeeB18a14eAef56A549A04e3Aa1Bd
-        address _withdrawToAddress //0x7D86EEE39586d277c86f271E1438D3Af87405dc9
+        address _withdrawToAddress
         ) 
         ERC1155("") 
         RrpRequesterV0(_airnodeRrp)
