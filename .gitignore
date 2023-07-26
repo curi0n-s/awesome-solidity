@@ -10,5 +10,7 @@ out/
 # Docs
 docs/
 
+lib-local/
+
 # Dotenv file
 .env
