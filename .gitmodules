@@ -7,3 +7,6 @@
 [submodule "lib/hyperlane-monorepo"]
 	path = lib/hyperlane-monorepo
 	url = https://github.com/hyperlane-xyz/hyperlane-monorepo
+[submodule "lib/airnode"]
+	path = lib/airnode
+	url = https://github.com/api3dao/airnode
